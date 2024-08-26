@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: aqua;
+}
+
+h1 {
+  color: black;
+  font-family: "Garamond", "serif";
+  font-size: 40px;
+}
+
+p {
+  margin: auto;
+  color: black;
+  font-family: "Garamond","serif";
+  font-size: 20px;
+  word-wrap: break-word;
+  width: 850px;
+}
+
+.btn{
+  border: 1px solid #333333;
+  color: black;
+  background-color: aquamarine;
+  text-decoration: none;
+}
+
+video{
+  float: right;
+  padding-right: 300px;
+  padding-top: 10px;
+}

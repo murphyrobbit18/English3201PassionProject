@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    background-color: black;
+}
+
+h1{
+    font-size: 40px;
+    font-family: "Garamond", "serif";
+    color: #ffaeb1;
+}
+
+h3{
+    font-size: 25px;
+    font-family: "Garamond", "serif";
+    color: #ffaeb1;
+}
+
+.btn{
+    background-color: #ffaeb1;
+    text-decoration: none;
+    color:black;
+    border: 1px solid #333333;
+}

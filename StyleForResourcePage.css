@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+  color: black;
+  font-family: "Garamond", "serif";
+  font-size: 35px;
+  color: #ffaeb1;
+}
+
+p{
+  color: #ffaeb1;
+  font-family: "Garamond";
+}
+
+.center {
+    text-align: left;
+    color: black;
+    width: 700px;
+    margin: auto;
+  }
+
+.btn {
+    background-color: #ffaeb1;
+    text-decoration: none;
+    border: 1px solid #333333;
+    color: black;
+  }

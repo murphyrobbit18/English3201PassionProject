@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: #ffaeb1;
+    font-family: "Garamond", "serif";
+    font-size: 45px;
+    text-align: center;
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    border: 1px solid #ffaeb1;
+    width: 100px;
+    padding: 10px;
+    float: left;
+}
+
+a{
+    text-decoration: none;
+    color:#ffaeb1;
+}
+
+.btn{
+    background-color: #ffaeb1;
+    text-decoration: none;
+    color:black;
+    border: 1px solid #333333;
+}
+
+span.superscript{
+    font-size: 12px;
+}
+
+span.Superscript{
+    font-size: 10px;
+}
+

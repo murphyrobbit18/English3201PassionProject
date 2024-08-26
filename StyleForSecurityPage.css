@@ -1,0 +1,31 @@
+body {
+  background-color: #f9fbfd;
+}
+
+h1 {
+  color: black;
+  font-family: "Helvetica", "sans-serif";
+  font-size: 24px;
+}
+
+h3 {
+  color: black;
+  font-family: "Helvetica", "sans-serif";
+  font-size: 14px;
+}
+
+.center {
+  width: 280px;
+  background-color: white;
+  padding: 50px;
+  margin: auto;
+  text-align: center;
+  border: 2px solid #c7c7c7;
+}
+
+.btn {
+  background-color: white;
+  padding: 2px;
+  width: 50px;
+  border: 1px solid black;
+}
