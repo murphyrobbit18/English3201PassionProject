@@ -1,6 +1,6 @@
 ## Lab 4 Pseudocode
 
-```python
+```markdown
 
 make sampleList an empty list
 
