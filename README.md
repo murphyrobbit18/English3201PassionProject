@@ -2,9 +2,9 @@
 
 ```markdown
 
-make sampleList an empty list
+sampleList = empty list
 
 for sample in the range of 10
 
-  sample = Input a sample here:
+  sample = Collected sample
   sampleList.append(sample)
