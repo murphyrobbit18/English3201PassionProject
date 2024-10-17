@@ -4,7 +4,7 @@
 
 sampleList = empty list
 
-for sample in the range of 10
+for samples in the range of 10
 
   sample = Collected sample
   sampleList.append(sample)
